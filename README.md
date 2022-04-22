@@ -1,7 +1,7 @@
 # urlShortener
 A URL shortener API built with Java and Spring Boot.
 
-A URL shortener is a service that is used to create short links from very long URLs.
+A URL shortener is a service that is used to create short links from very long URLs by applying a hashing algorithm.
 
 The first URL Shortener was created by a web developer named Kevin Gilbertson, the founder of TinyURL in 2002. 
 
