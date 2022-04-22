@@ -10,8 +10,11 @@ There are many URL shortening services available online, like tiny.cc, bitly.com
 1. Users need to be able to enter a long URL. Our service should save that URL and generate a short link.
 2. Clicking on the short link should redirect the user to the original long URL.
 
-Tools Used:
+**Tools Used:**
 
+Languages: Java
 IDE: Jetbrains Intellij
 Version Control: Git, Github
 API Testing: Postman
+Build: Maven
+Backend Framework: Springboot
