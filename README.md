@@ -32,3 +32,5 @@ API Testing: Postman
 Build: Maven
 
 Backend Framework: Springboot
+
+Database: MongoDB
